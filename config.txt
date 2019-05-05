@@ -1,6 +1,6 @@
 owner=432961984179208193
 prefix=kkk.
-game=𝗤𝗨𝗥𝗔𝗡
+game=❗
 stayinchannel=true
 songinstatus=false
 token=NTc0NDY2MDAxNzIzNDU3NTM2.XM5zUw.e-0Z8P67bkhUG1hP11oRQ73lkk0
